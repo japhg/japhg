@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm a Full-Stack Web Developer with strong expertise in both front-end and back-end technologies. Experienced in building dynamic, responsive, and user-friendly web applications using modern frameworks.
+
 <!--
 **japhg/japhg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
