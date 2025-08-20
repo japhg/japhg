@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wassup, Guys! 😁
 
 I'm a Full-Stack Web Developer with strong expertise in both front-end and back-end technologies. Experienced in building dynamic, responsive, and user-friendly web applications using modern frameworks.
 
