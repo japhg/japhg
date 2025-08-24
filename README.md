@@ -1,6 +1,5 @@
-## Sup, folks! 😁 
-## Did you know that I write code that works on Friday night… and still works on Monday morning.
-*(Shocking, I know 😅.)*
+## Sup, folks! 😁 Did you know that I write code that works on Friday night… and still works on Monday morning.
+*(Shocking, I know.)* 😅
 
 By the way, I'm a Full-Stack Web Developer with strong expertise in both front-end and back-end technologies. Experienced in building dynamic, responsive, and user-friendly web applications using modern frameworks.
 
